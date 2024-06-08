@@ -19,9 +19,11 @@ I graduated from Ege University, Department of Computer Education and Instructio
 
 ### Python:
 
-| Python3 | Jupyter | Numpy | Pandas | Matplotlib | 
-|----------|----------|--------|--------|--------|
-| <img align="center" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> |<img align="left" alt="Jupyter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" /> | <img align="left" alt="Numpy" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" /> | <img align="left" alt="Pandas" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />| <img align="left" alt="Matplotlib" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
+| Python3 | Jupyter | Numpy | Pandas | Matplotlib | Colab |
+|----------|----------|--------|--------|--------|--------|
+| <img align="center" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> |<img align="left" alt="Jupyter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" /> | <img align="left" alt="Numpy" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" /> | <img align="left" alt="Pandas" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />| <img align="left" alt="Matplotlib" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" /> | <img align="left" alt="Matplotlib" width="40px" style="padding-right:10px;" src="https://github.com/asiedenis/asiedenis/assets/11831201/a2c6e5cf-97b8-4a85-b8d5-c97301d14c7e" />
+
+
 
 <!-- align="left" alt="PyQt" width="40px" style="padding-right:10px;" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" /> -->
 <!-- <img align="left" alt="Scikitlearn" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" /> -->
@@ -34,8 +36,8 @@ I graduated from Ege University, Department of Computer Education and Instructio
 
 ### Others About Programın:
 
-| Git | Sourcetree | Markdown | Construct3 | Tinkercad | Articulate Storyline |
-|----------|----------|----------|----------|----------|----------|
+| Git | Sourcetree | Markdown | HTML | Construct3 | Tinkercad | Articulate Storyline |
+|----------|----------|----------|----------|----------|----------|----------|
 
 ### Design:
 
