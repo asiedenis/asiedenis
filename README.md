@@ -8,7 +8,7 @@
 
 
 My name is Asiye Deniz. 
-I graduated from Ege University, Department of Computer Education and Instructional Technologies . I completed my master's degree in the same field. I have been working as a teacher at the Ministry of National Education (MEB) since 2008. I took part in various projects such as digital content development, curriculum preparation, and book writing. My interest in programming and software has always continued. I am interested in Software Development and Data Science. I am a hard-working, honest and outspoken person who has a sense of work discipline and responsibility. I can carry out both individual and group work. I am open to learning and innovations.
+I graduated from Ege University, Department of Computer Education and Instructional Technologies . I completed my master's degree in the same field. I have been working as a teacher at the Ministry of National Education (MEB) since 2008. I took part in various projects such as digital content development, curriculum preparation, and book writing. My interest in programming and software has always continued. I am interested in Software Development, Data Science, UI, UX, Networking. I am a hard-working, honest and outspoken person who has a sense of work discipline and responsibility. I can carry out both individual and group work. I am open to learning and innovations.
 
 - [LinkedIn](https://www.linkedin.com/in/asiye-deniz/)
 - [Email](mailto:asiyedeniz@gmail.com)
@@ -32,10 +32,20 @@ I graduated from Ege University, Department of Computer Education and Instructio
 |----------|----------|----------|--------|
 | <img align="center" alt="Microsoft SQL Server" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" /> | <img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> | <img align="left" alt="PostgreSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" /> | <img align="left" alt="SQLite" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" /> |
 
-### Other:
+### Others About Programın:
 
-| Git | Sourcetree | Markdown | Construct3 | Tinkercad | Articulate Storyline | Adobe CC Photoshop | Indesign | Illustrator | Premiere |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+| Git | Sourcetree | Markdown | Construct3 | Tinkercad | Articulate Storyline |
+|----------|----------|----------|----------|----------|----------|
+
+### Design:
+
+| Adobe CC Photoshop | Indesign | Illustrator | Premiere |
+|----------|----------|----------|----------|
+
+### Network:
+
+| Cisco CCNA1 | Cisco Paket Tracer |
+|----------|----------|
 
 <!--<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> | <img align="left" alt="Sourcetree" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourcetree/sourcetree-original.svg" /> | <img align="left" alt="Markdown" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" /> |
 
